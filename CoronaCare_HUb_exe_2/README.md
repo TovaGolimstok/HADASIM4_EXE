@@ -54,11 +54,12 @@ when you run up the project there will be a swgger up with a locallhost 5073(htt
 ![Alt text](image.png)
 and then you can choose to create an employee or just to create employee_covid_detailes to a specific Numberid_employee.
 1. create amployee:
-![Alt text](image-1.png)
-![Alt text](image-2.png)
-and then enter the 'try it out' button:![Alt text](image-3.png)
+![image-1](https://github.com/TovaGolimstok/HADASIM4_EXE/assets/164151470/622f76b6-1547-4071-a8f7-ff78d2adb0b8)
+![image-2](https://github.com/TovaGolimstok/HADASIM4_EXE/assets/164151470/4aeea88a-01ca-4e5a-9540-87f5c9be92ce)
+and then enter the 'try it out' button:![image-3](https://github.com/TovaGolimstok/HADASIM4_EXE/assets/164151470/937618fc-c29b-4c36-80e3-80cfc03d1d84)
+
 and then enter all the parameters:
-![Alt text](image-4.png)
+![image-4](https://github.com/TovaGolimstok/HADASIM4_EXE/assets/164151470/02e24a05-2d37-4100-985c-509f07a64b0a)
 and then run the execute button:![Alt text](image-5.png)
 and there will be a 200 status code of succes:![Alt text](image-6.png)
 
