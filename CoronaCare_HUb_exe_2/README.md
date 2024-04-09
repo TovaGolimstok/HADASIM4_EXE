@@ -35,8 +35,8 @@ The DAL is responsible for interacting with the database and performing CRUD ope
 
 ## How to Run the Project
 first- open the 'corona_Hub_exe.sln' file at the 'corona_Hub_Exe' dir:
-![Alt text](image-10.png)
-![Alt text](image-11.png)
+![image-10](https://github.com/TovaGolimstok/HADASIM4_EXE/assets/164151470/6346431c-d6b3-4fc0-a4d3-b8569f141e73)
+![image-11](https://github.com/TovaGolimstok/HADASIM4_EXE/assets/164151470/ae0bca3f-d4fb-4e66-9eff-7d7d5dcc8e7b)
 in the browse choose the db file from your local computer.
 1.connect to the db file in the data connection in the server explorer tool.
 
@@ -51,7 +51,7 @@ in the browse choose the db file from your local computer.
 
 4. Start the application and make HTTP requests to the defined endpoints.
 when you run up the project there will be a swgger up with a locallhost 5073(http://localhost:5073/swagger/index.html):
-![Alt text](image.png)
+![image](https://github.com/TovaGolimstok/HADASIM4_EXE/assets/164151470/49581360-7529-4d50-9053-9eed77e51d9e)
 and then you can choose to create an employee or just to create employee_covid_detailes to a specific Numberid_employee.
 1. create amployee:
 ![image-1](https://github.com/TovaGolimstok/HADASIM4_EXE/assets/164151470/622f76b6-1547-4071-a8f7-ff78d2adb0b8)
@@ -60,10 +60,14 @@ and then enter the 'try it out' button:![image-3](https://github.com/TovaGolimst
 
 and then enter all the parameters:
 ![image-4](https://github.com/TovaGolimstok/HADASIM4_EXE/assets/164151470/02e24a05-2d37-4100-985c-509f07a64b0a)
-and then run the execute button:![Alt text](image-5.png)
-and there will be a 200 status code of succes:![Alt text](image-6.png)
+and then run the execute button:![image-5](https://github.com/TovaGolimstok/HADASIM4_EXE/assets/164151470/3755f248-9ac6-4d09-8750-b1b9c245503f)
 
-2. gat by id_employee or by number_id_employee:![Alt text](image-7.png)
-i choose by number_id_employee:![Alt text](image-8.png)
-and then i got the information:![Alt text](image-9.png)
+and there will be a 200 status code of succes:![image-6](https://github.com/TovaGolimstok/HADASIM4_EXE/assets/164151470/aff13114-fea7-4be3-8228-f4bbbf3777f3)
+
+
+2. gat by id_employee or by number_id_employee:![image-7](https://github.com/TovaGolimstok/HADASIM4_EXE/assets/164151470/43aef08a-042b-4b50-a815-7201b9465d85)
+
+i choose by number_id_employee:![image-8](https://github.com/TovaGolimstok/HADASIM4_EXE/assets/164151470/daa84c50-54c6-4d32-9816-a0d5915e4805)
+
+and then i got the information:![image-9](https://github.com/TovaGolimstok/HADASIM4_EXE/assets/164151470/3d176039-9e08-4d32-97a0-1810928f2d98)
 
